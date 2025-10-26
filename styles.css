@@ -2,18 +2,18 @@
 table{
 	width:1000px;
 	border-collapse:collapse;
-	border:1px solid orange;
+	border-width:0px 0px 1px 1px;
 	
 }
 td{
-	padding:3px;
+	padding:3px 5px;
 	text-align:center;
 	border:1px solid orange;
 }
 th{
 	background-color:#888888;
 	color:white;
-	padding:5px;
+	padding:3px 5px;
 	text-align:center;
 	border:1px solid orange;
 }
