@@ -1,8 +1,10 @@
 /*  your css code here. If applicable */
-.table{
+table{
 	width:1000px;
 	border-collapse:collapse;
 	border-width:0px 0px 1px 1px;
+	border-style:solid;
+	border-color:orange;
 	
 }
 td{
@@ -10,14 +12,21 @@ td{
 	text-align:center;
 	border:1px solid orange;
 }
-th{
-	background-color:#888888;
+table th{
+	background-color:rgb(136, 136, 136);
 	color:white;
 	padding:3px 5px;
-	text-align:center;
+	
 	border:1px solid orange;
 }
-.sub-total-text{
+table th ,table td{
+text-align:center;
+	border-width:1px 1px 0px 0px;
+	border-style:solid;
+	border-color:rgb(255, 165, 0);
+	padding:3px 5px;
+}
+.sub-total-text, .sub-total-row{
 	text-align:right;
 	
 }
