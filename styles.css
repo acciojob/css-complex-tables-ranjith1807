@@ -26,7 +26,7 @@ text-align:center;
 	border-color:rgb(255, 165, 0);
 	padding:3px 5px;
 }
-.sub-total-text, .sub-total-row{
+td.sub-total-text, tr.sub-total-row{
 	text-align:right;
 	
 }
