@@ -6,11 +6,15 @@ table{
 	
 }
 td{
-	padding:2px;
+	padding:3px;
 	text-align:center;
 }
 th{
-	background-color:gray;
+	background-color:#888888;
 	color:white;
+	padding:5px;
 	
+}
+.sub-total-text{
+	text-align:right;
 }
