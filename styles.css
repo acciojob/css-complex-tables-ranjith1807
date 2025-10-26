@@ -1,4 +1,16 @@
 /*  your css code here. If applicable */
-.table{
+table{
+	width:1000px;
+	border-collapse:collapse;
+	border:1px solid orange;
+	
+}
+td{
+	padding:2px;
+	text-align:center;
+}
+th{
+	background-color:gray;
+	color:white;
 	
 }
