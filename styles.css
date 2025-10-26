@@ -8,13 +8,16 @@ table{
 td{
 	padding:3px;
 	text-align:center;
+	border:1px solid orange;
 }
 th{
 	background-color:#888888;
 	color:white;
 	padding:5px;
-	
+	text-align:center;
+	border:1px solid orange;
 }
 .sub-total-text{
 	text-align:right;
+	
 }
